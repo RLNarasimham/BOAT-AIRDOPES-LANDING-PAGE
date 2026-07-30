@@ -66,34 +66,34 @@ The project is designed with a mobile-first approach to provide a consistent bro
 
 ## Home Page
 
-*(Add screenshot here)*
+![HOME PAGE OF BOAT AIRDOPES LANDING PAGE PROJECT](./assets/screenshots/boat_home_page.png)
 
 ---
 
 ## Features Section
 
-*(Add screenshot here)*
+![FEATURES SECTION OF BOAT AIRDOPES LANDING PAGE PROJECT](./assets/screenshots/boat_features_section.png)
 
 ---
 
 ## Specifications Section
 
-*(Add screenshot here)*
+![SPECIFICATIONS SECTION OF BOAT AIRDOPES LANDING PAGE PROJECT](./assets/screenshots/boat_specs_section.png)
 
 ---
 
 ## Customer Testimonials Section
 
-*(Add screenshot here)*
+![CUSTOMER TESTIMONIALS SECTION OF BOAT AIRDOPES LANDING PAGE PROJECT](./assets/screenshots/boat_customers_section.png)
 
 ---
 
 ## Call-to-Action Section
 
-*(Add screenshot here)*
+![CALL TO ACTION SECTION OF BOAT AIRDOPES LANDING PAGE PROJECT](./assets/screenshots/boat_call_to_action_section.png)
 
 ---
 
 ## Contact Support Page
 
-*(Add screenshot here)*
+![CONTACT SUPPORT PAGE OF BOAT AIRDOPES LANDING PAGE PROJECT](./assets/screenshots/boat_contact_support_page.png)
